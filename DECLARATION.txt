@@ -1,0 +1,18 @@
+# Project Declaration
+
+I, Jhems Chaudhari, a student of Computer Science and Engineering at Indus University, hereby declare that the project titled "Utility Calculator" is my original work. I have developed this project for the course "Programming For Scientific Calculations" during my 3rd year of studies.
+
+I affirm that:
+
+1. The features and functionalities implemented in this project, as described in the project description, are the result of my own efforts and research.
+
+2. Any external resources, libraries, or code snippets used in this project are duly credited in the source code and documentation.
+
+3. This project has not been submitted by me for any other academic purpose, neither partially nor in full.
+
+4. I understand the ethical guidelines regarding academic integrity and plagiarism and have followed them while completing this project.
+
+Jhems Chaudhari,
+Student, Computer Science and Engineering
+IITE, Indus University
+5th October 2023
