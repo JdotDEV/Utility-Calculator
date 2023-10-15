@@ -22,7 +22,7 @@ Clone the repository to your local machine using `git clone`.
 ```bash
 git clone https://github.com/JdotDEV/Utility-Calculator.git
 cd Utility-Calculator
-
+```
 
 **Prerequisites**
 Python 3.x
